@@ -1,0 +1,92 @@
+[
+  {
+    "ContainingType": "PeopleApi.Presentation.Controllers.PersonController",
+    "Method": "UpdatePerson",
+    "RelativePath": "Pessoas/Atualizar-pessoa",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "person",
+        "Type": "PeopleApi.Domain.Person",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PeopleApi.Presentation.Controllers.PersonController",
+    "Method": "CreatePerson",
+    "RelativePath": "Pessoas/Criar-pessoa",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "createPersonDto",
+        "Type": "PeopleApi.Application.Dtos.CreatePersonDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PeopleApi.Presentation.Controllers.PersonController",
+    "Method": "AddPeopleFromCSV",
+    "RelativePath": "Pessoas/criar-pessoa-apartir-csv",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "file",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PeopleApi.Presentation.Controllers.PersonController",
+    "Method": "DeletePerson",
+    "RelativePath": "Pessoas/Deletar-pessoa",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PeopleApi.Presentation.Controllers.PersonController",
+    "Method": "GetPersonById",
+    "RelativePath": "Pessoas/Obter-pessoa-por-id",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PeopleApi.Presentation.Controllers.PersonController",
+    "Method": "GetAllPeople",
+    "RelativePath": "Pessoas/obter-todas-pessoas",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

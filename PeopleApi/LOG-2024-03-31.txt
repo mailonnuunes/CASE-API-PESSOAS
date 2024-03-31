@@ -1,0 +1,159 @@
+Log de inicializacao Information: ListeningOnAddress - Now listening on: https://localhost:7248
+Log de inicializacao Information: ListeningOnAddress - Now listening on: http://localhost:5000
+Log de inicializacao Information: 0 - Application started. Press Ctrl+C to shut down.
+Log de inicializacao Information: 0 - Hosting environment: Development
+Log de inicializacao Information: 0 - Content root path: C:\Users\mailo\OneDrive\Imagens\.NET\PeopleApi\PeopleApi\
+Log de inicializacao Warning: 0 - solicitado endpoint /api/Person/Criar-pessoa POST - Pessoa criada - ID: 200, Nome: m12, Idade: 2, Email: m$@gmail.com
+Log de inicializacao Information: 0 - solicitado endpoint /api/Person/obter-todas-pessoas GET
+Log de inicializacao Information: ListeningOnAddress - Now listening on: https://localhost:7248
+Log de inicializacao Information: ListeningOnAddress - Now listening on: http://localhost:5000
+Log de inicializacao Information: 0 - Application started. Press Ctrl+C to shut down.
+Log de inicializacao Information: 0 - Hosting environment: Development
+Log de inicializacao Information: 0 - Content root path: C:\Users\mailo\OneDrive\Imagens\.NET\PeopleApi\PeopleApi\
+Log de inicializacao Information: ListeningOnAddress - Now listening on: https://localhost:7248
+Log de inicializacao Information: ListeningOnAddress - Now listening on: http://localhost:5000
+Log de inicializacao Information: 0 - Application started. Press Ctrl+C to shut down.
+Log de inicializacao Information: 0 - Hosting environment: Development
+Log de inicializacao Information: 0 - Content root path: C:\Users\mailo\OneDrive\Imagens\.NET\PeopleApi\PeopleApi\
+Log de inicializacao Warning: 0 - solicitado endpoint /api/Person/Criar-pessoa POST - Pessoa criada - ID: 201, Nome: m12, Idade: 3, Email: k21@gmail.com
+Log de inicializacao Information: ListeningOnAddress - Now listening on: https://localhost:7248
+Log de inicializacao Information: ListeningOnAddress - Now listening on: http://localhost:5000
+Log de inicializacao Information: 0 - Application started. Press Ctrl+C to shut down.
+Log de inicializacao Information: 0 - Hosting environment: Development
+Log de inicializacao Information: 0 - Content root path: C:\Users\mailo\OneDrive\Imagens\.NET\PeopleApi\PeopleApi\
+Log de inicializacao Information: ListeningOnAddress - Now listening on: https://localhost:7248
+Log de inicializacao Information: ListeningOnAddress - Now listening on: http://localhost:5000
+Log de inicializacao Information: 0 - Application started. Press Ctrl+C to shut down.
+Log de inicializacao Information: 0 - Hosting environment: Development
+Log de inicializacao Information: 0 - Content root path: C:\Users\mailo\OneDrive\Imagens\.NET\PeopleApi\PeopleApi\
+Log de inicializacao Information: ListeningOnAddress - Now listening on: https://localhost:7248
+Log de inicializacao Information: ListeningOnAddress - Now listening on: http://localhost:5000
+Log de inicializacao Information: 0 - Application started. Press Ctrl+C to shut down.
+Log de inicializacao Information: 0 - Hosting environment: Development
+Log de inicializacao Information: 0 - Content root path: C:\Users\mailo\OneDrive\Imagens\.NET\PeopleApi\PeopleApi\
+Log de inicializacao Information: 0 - solicitado endpoint /api/Person/obter-todas-pessoas GET
+Log de inicializacao Information: ListeningOnAddress - Now listening on: https://localhost:7248
+Log de inicializacao Information: ListeningOnAddress - Now listening on: http://localhost:5000
+Log de inicializacao Information: 0 - Application started. Press Ctrl+C to shut down.
+Log de inicializacao Information: 0 - Hosting environment: Development
+Log de inicializacao Information: 0 - Content root path: C:\Users\mailo\OneDrive\Imagens\.NET\PeopleApi\PeopleApi\
+Log de inicializacao Warning: 0 - solicitado endpoint /api/Person/Criar-pessoa POST - Pessoa criada - ID: 1, Nome: Mailon, Idade: 22, Email: mailonnunes2016@gmail.com
+Log de inicializacao Information: 0 - solicitado endpoint /api/Person/obter-todas-pessoas GET
+Log de inicializacao Error: UnhandledException - An unhandled exception has occurred while executing the request.
+Log de inicializacao Warning: 0 - solicitado endpoint /api/Person/Criar-pessoa POST - Pessoa criada - ID: 2, Nome: Mailon1, Idade: 22, Email: mailonnunes2015@gmail.com
+Log de inicializacao Error: UnhandledException - An unhandled exception has occurred while executing the request.
+Log de inicializacao Information: 0 - solicitado endpoint /api/Person/obter-todas-pessoas GET
+Log de inicializacao Information: 0 - solicitado endpoint /api/Person/obter-todas-pessoas GET
+Log de inicializacao Information: 0 - solicitado endpoint /api/Person/obter-todas-pessoas GET
+Log de inicializacao Information: 0 - solicitado endpoint /api/Person/Obter-pessoa-por-id GET
+Log de inicializacao Warning: 0 - solicitado endpoint /api/Person/Criar-pessoa POST - Pessoa criada - ID: 3, Nome: Mailon2, Idade: 22, Email: mailonnunes2014@gmail.com
+Log de inicializacao Information: 0 - solicitado endpoint /api/Person/obter-todas-pessoas GET
+Log de inicializacao Error: UnhandledException - An unhandled exception has occurred while executing the request.
+Log de inicializacao Warning: 0 - solicitado endpoint /api/Person/Criar-pessoa POST - Pessoa criada - ID: 4, Nome: , Idade: 0, Email: mailon@wevbv
+Log de inicializacao Information: ListeningOnAddress - Now listening on: https://localhost:7248
+Log de inicializacao Information: ListeningOnAddress - Now listening on: http://localhost:5000
+Log de inicializacao Information: 0 - Application started. Press Ctrl+C to shut down.
+Log de inicializacao Information: 0 - Hosting environment: Development
+Log de inicializacao Information: 0 - Content root path: C:\Users\mailo\OneDrive\Imagens\.NET\PeopleApi\PeopleApi\
+Log de inicializacao Warning: 0 - solicitado endpoint /api/Person/Criar-pessoa POST - Pessoa criada - ID: 5, Nome: string, Idade: 0, Email: string
+Log de inicializacao Information: ListeningOnAddress - Now listening on: https://localhost:7248
+Log de inicializacao Information: ListeningOnAddress - Now listening on: http://localhost:5000
+Log de inicializacao Information: 0 - Application started. Press Ctrl+C to shut down.
+Log de inicializacao Information: 0 - Hosting environment: Development
+Log de inicializacao Information: 0 - Content root path: C:\Users\mailo\OneDrive\Imagens\.NET\PeopleApi\PeopleApi\
+Log de inicializacao Information: ListeningOnAddress - Now listening on: https://localhost:7248
+Log de inicializacao Information: ListeningOnAddress - Now listening on: http://localhost:5000
+Log de inicializacao Information: 0 - Application started. Press Ctrl+C to shut down.
+Log de inicializacao Information: 0 - Hosting environment: Development
+Log de inicializacao Information: 0 - Content root path: C:\Users\mailo\OneDrive\Imagens\.NET\PeopleApi\PeopleApi\
+Log de inicializacao Warning: 0 - solicitado endpoint /api/Person/Criar-pessoa POST - Pessoa criada - ID: 6, Nome: , Idade: 0, Email: mail
+Log de inicializacao Information: ListeningOnAddress - Now listening on: https://localhost:7248
+Log de inicializacao Information: ListeningOnAddress - Now listening on: http://localhost:5000
+Log de inicializacao Information: 0 - Application started. Press Ctrl+C to shut down.
+Log de inicializacao Information: 0 - Hosting environment: Development
+Log de inicializacao Information: 0 - Content root path: C:\Users\mailo\OneDrive\Imagens\.NET\PeopleApi\PeopleApi\
+Log de inicializacao Error: UnhandledException - An unhandled exception has occurred while executing the request.
+Log de inicializacao Warning: 0 - solicitado endpoint /api/Person/Criar-pessoa POST - Pessoa criada - ID: 7, Nome: ma, Idade: 0, Email: string@12121
+Log de inicializacao Information: ListeningOnAddress - Now listening on: https://localhost:7248
+Log de inicializacao Information: ListeningOnAddress - Now listening on: http://localhost:5000
+Log de inicializacao Information: 0 - Application started. Press Ctrl+C to shut down.
+Log de inicializacao Information: 0 - Hosting environment: Development
+Log de inicializacao Information: 0 - Content root path: C:\Users\mailo\OneDrive\Imagens\.NET\PeopleApi\PeopleApi\
+Log de inicializacao Information: ListeningOnAddress - Now listening on: https://localhost:7248
+Log de inicializacao Information: ListeningOnAddress - Now listening on: http://localhost:5000
+Log de inicializacao Information: 0 - Application started. Press Ctrl+C to shut down.
+Log de inicializacao Information: 0 - Hosting environment: Development
+Log de inicializacao Information: 0 - Content root path: C:\Users\mailo\OneDrive\Imagens\.NET\PeopleApi\PeopleApi\
+Log de inicializacao Information: 0 - Application started. Press Ctrl+C to shut down.
+Log de inicializacao Information: 0 - Hosting environment: Development
+Log de inicializacao Information: 0 - Content root path: C:\Users\mailo\OneDrive\Imagens\.NET\PeopleApi\PeopleApi\
+Log de inicializacao Warning: 0 - solicitado endpoint /api/Person/Criar-pessoa POST - Pessoa criada - ID: 8, Nome: , Idade: 0, Email: stringvdfvds
+Log de inicializacao Information: 0 - Application started. Press Ctrl+C to shut down.
+Log de inicializacao Information: 0 - Hosting environment: Development
+Log de inicializacao Information: 0 - Content root path: C:\Users\mailo\OneDrive\Imagens\.NET\PeopleApi\PeopleApi\
+Log de inicializacao Warning: 0 - solicitado endpoint /api/Person/Criar-pessoa POST - Pessoa criada - ID: 9, Nome: 123, Idade: 0, Email: mail123421
+Log de inicializacao Information: 0 - Application started. Press Ctrl+C to shut down.
+Log de inicializacao Information: 0 - Hosting environment: Development
+Log de inicializacao Information: 0 - Content root path: C:\Users\mailo\OneDrive\Imagens\.NET\PeopleApi\PeopleApi\
+Log de inicializacao Information: ListeningOnAddress - Now listening on: https://localhost:7248
+Log de inicializacao Information: ListeningOnAddress - Now listening on: http://localhost:5000
+Log de inicializacao Information: 0 - Application started. Press Ctrl+C to shut down.
+Log de inicializacao Information: 0 - Hosting environment: Development
+Log de inicializacao Information: 0 - Content root path: C:\Users\mailo\OneDrive\Imagens\.NET\PeopleApi\PeopleApi\
+Log de inicializacao Information: ListeningOnAddress - Now listening on: https://localhost:7248
+Log de inicializacao Information: ListeningOnAddress - Now listening on: http://localhost:5000
+Log de inicializacao Information: 0 - Application started. Press Ctrl+C to shut down.
+Log de inicializacao Information: 0 - Hosting environment: Development
+Log de inicializacao Information: 0 - Content root path: C:\Users\mailo\OneDrive\Imagens\.NET\PeopleApi\PeopleApi\
+Log de inicializacao Information: 0 - solicitado endpoint /api/Person/obter-todas-pessoas GET
+Log de inicializacao Information: ListeningOnAddress - Now listening on: https://localhost:7248
+Log de inicializacao Information: ListeningOnAddress - Now listening on: http://localhost:5000
+Log de inicializacao Information: 0 - Application started. Press Ctrl+C to shut down.
+Log de inicializacao Information: 0 - Hosting environment: Development
+Log de inicializacao Information: 0 - Content root path: C:\Users\mailo\OneDrive\Imagens\.NET\PeopleApi\PeopleApi\
+Log de inicializacao Error: UnhandledException - An unhandled exception has occurred while executing the request.
+Log de inicializacao Information: ListeningOnAddress - Now listening on: https://localhost:7248
+Log de inicializacao Information: ListeningOnAddress - Now listening on: http://localhost:5000
+Log de inicializacao Information: 0 - Application started. Press Ctrl+C to shut down.
+Log de inicializacao Information: 0 - Hosting environment: Development
+Log de inicializacao Information: 0 - Content root path: C:\Users\mailo\OneDrive\Imagens\.NET\PeopleApi\PeopleApi\
+Log de inicializacao Information: 0 - solicitado endpoint /api/Person/obter-todas-pessoas GET
+Log de inicializacao Information: 0 - solicitado endpoint /api/Person/obter-todas-pessoas GET
+Log de inicializacao Information: ListeningOnAddress - Now listening on: https://localhost:7248
+Log de inicializacao Information: ListeningOnAddress - Now listening on: http://localhost:5000
+Log de inicializacao Information: 0 - Application started. Press Ctrl+C to shut down.
+Log de inicializacao Information: 0 - Hosting environment: Development
+Log de inicializacao Information: 0 - Content root path: C:\Users\mailo\OneDrive\Imagens\.NET\PeopleApi\PeopleApi\
+Log de inicializacao Information: ListeningOnAddress - Now listening on: https://localhost:7248
+Log de inicializacao Information: ListeningOnAddress - Now listening on: http://localhost:5000
+Log de inicializacao Information: 0 - Application started. Press Ctrl+C to shut down.
+Log de inicializacao Information: 0 - Hosting environment: Development
+Log de inicializacao Information: 0 - Content root path: C:\Users\mailo\OneDrive\Imagens\.NET\PeopleApi\PeopleApi\
+Log de inicializacao Information: ListeningOnAddress - Now listening on: https://localhost:7248
+Log de inicializacao Information: ListeningOnAddress - Now listening on: http://localhost:5000
+Log de inicializacao Information: 0 - Application started. Press Ctrl+C to shut down.
+Log de inicializacao Information: 0 - Hosting environment: Development
+Log de inicializacao Information: 0 - Content root path: C:\Users\mailo\OneDrive\Imagens\.NET\PeopleApi\PeopleApi\
+Log de inicializacao Warning: 0 - solicitado endpoint /api/Person/Criar-pessoa POST - Pessoa criada - ID: 1, Nome: string, Idade: 12, Email: mailonnunes2016@gmail.com
+Log de inicializacao Information: ListeningOnAddress - Now listening on: https://localhost:7248
+Log de inicializacao Information: ListeningOnAddress - Now listening on: http://localhost:5000
+Log de inicializacao Information: 0 - Application started. Press Ctrl+C to shut down.
+Log de inicializacao Information: 0 - Hosting environment: Development
+Log de inicializacao Information: 0 - Content root path: C:\Users\mailo\OneDrive\Imagens\.NET\PeopleApi\PeopleApi\
+Log de inicializacao Information: 0 - solicitado endpoint /api/Person/obter-todas-pessoas GET
+Log de inicializacao Information: 0 - solicitado endpoint /api/Person/Obter-pessoa-por-id GET
+Log de inicializacao Warning: 0 - Solicitado endpoint /api/Person/Criar-pessoa POST - Pessoa criada - ID: 2, Nome: Eduardo Barbosa, Idade: 17, Email: eduardo.barbosa@gmail.com
+Log de inicializacao Information: ListeningOnAddress - Now listening on: https://localhost:7248
+Log de inicializacao Information: ListeningOnAddress - Now listening on: http://localhost:5000
+Log de inicializacao Information: 0 - Application started. Press Ctrl+C to shut down.
+Log de inicializacao Information: 0 - Hosting environment: Development
+Log de inicializacao Information: 0 - Content root path: C:\Users\mailo\OneDrive\Imagens\.NET\PeopleApi\PeopleApi\
+Log de inicializacao Information: 0 - solicitado endpoint /api/Person/obter-todas-pessoas GET
+Log de inicializacao Warning: 0 - Solicitado endpoint /api/Person/Criar-pessoa POST - Pessoa criada - ID: 3, Nome: Eduardo Barbosa, Idade: 17, Email: eduardo.barbosa@gmail.com
+Log de inicializacao Warning: 0 - Solicitado endpoint /api/Person/Criar-pessoa POST - Pessoa criada - ID: 4, Nome: , Idade: 17, Email: eduardo.barbosa@gmail.com
+Log de inicializacao Information: ListeningOnAddress - Now listening on: https://localhost:7248
+Log de inicializacao Information: ListeningOnAddress - Now listening on: http://localhost:5000
+Log de inicializacao Information: 0 - Application started. Press Ctrl+C to shut down.
+Log de inicializacao Information: 0 - Hosting environment: Development
+Log de inicializacao Information: 0 - Content root path: C:\Users\mailo\OneDrive\Imagens\.NET\PeopleApi\PeopleApi\
+Log de inicializacao Information: 0 - solicitado endpoint /api/Person/obter-todas-pessoas GET
