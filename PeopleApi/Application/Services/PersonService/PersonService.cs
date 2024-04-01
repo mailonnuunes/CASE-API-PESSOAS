@@ -1,4 +1,7 @@
 ﻿using FluentValidation;
+using Microsoft.AspNetCore.Hosting.Server;
+using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.RazorPages;
 using PeopleApi.Domain;
 using PeopleApi.Domain.Services;
 using PeopleApi.Infrastructure.Repositories.PersonRepository;
@@ -20,24 +23,45 @@ namespace PeopleApi.Application.Services.PersonService
             _personValidator = personValidator;
         }
 
-        public void AddPeopleFromCSV(IFormFile file)
+        public async Task<OperationResult<string>> AddPeopleFromCSV(IFormFile file)
         {
-            var extension = Path.GetExtension(file.FileName);
+            var result = new OperationResult<string>();
+            var extension = file.FileName.Split('.').Last();
 
             if (file == null || file.Length == 0)
             {
-                Console.WriteLine("Arquivo inválido ou vazio");
-                return;
-
+                result.Errors.Add("Arquivo inválido ou vazio");
+                return result;
             }
-            else if (extension != ".csv")
+            else if (extension != "csv")
             {
-                Console.WriteLine("Por favor, importe somente arquivos csv");
-                return;
+                result.Errors.Add("Somente arquivos CSV são permitidos");
+                return result;
+            }
+            else if (file.Length > 1048576)
+            {
+                result.Errors.Add("O tamanho do arquivo não pode exceder 1MB.");
+                return result;
             }
             else
             {
-                _csvProcessingService.UploadFileAsync(file);
+                try
+                {
+                    var uploadResult = await _csvProcessingService.UploadFileAsync(file);
+                    if (uploadResult.Success)
+                    {
+                        result.Data = "Pessoas adicionadas com sucesso";
+                    }
+                    else
+                    {
+                        result.Errors.AddRange(uploadResult.Errors);
+                    }
+                }
+                catch (Exception ex)
+                {
+                    result.Errors.Add($"Ocorreu um erro ao processar o arquivo CSV: {ex.Message}");
+                }
+                return result;
             }
         }
 
@@ -53,9 +77,9 @@ namespace PeopleApi.Application.Services.PersonService
             _personRepository.Delete(id);
         }
 
-        public IList<Person> GetAllPeople()
+        public Task<(IEnumerable<Person> data, int totalCount)> GetAllPeople(int page = 1, int pageSize = 10)
         {
-            return _personRepository.GetAll();
+            return _personRepository.GetAll(page, pageSize);
         }
 
         public Person GetPersonById(long id)

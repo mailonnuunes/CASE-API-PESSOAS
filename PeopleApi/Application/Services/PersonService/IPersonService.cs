@@ -1,10 +1,12 @@
-﻿using PeopleApi.Domain;
+﻿using Microsoft.AspNetCore.Mvc;
+using PeopleApi.Domain;
+using PeopleApi.Domain.Services;
 
 namespace PeopleApi.Application.Services.PersonService
 {
     public interface IPersonService
     {
-        IList<Person> GetAllPeople();
+        Task<(IEnumerable<Person> data, int totalCount)> GetAllPeople(int page = 1, int pageSize = 10);
 
         Person GetPersonById(long id);
 
@@ -14,6 +16,6 @@ namespace PeopleApi.Application.Services.PersonService
 
         void DeletePerson(long id);
 
-        void AddPeopleFromCSV(IFormFile file);
+        Task<OperationResult<string>> AddPeopleFromCSV(IFormFile file);
     }
 }

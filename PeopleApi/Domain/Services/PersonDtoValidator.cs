@@ -24,7 +24,8 @@ namespace PeopleApi.Domain.Services
             RuleFor(p => p.Email)
                 .NotEmpty().WithMessage("O campo 'email' é obrigatório.")
                 .MaximumLength(150).WithMessage("O campo 'email' deve ter no máximo 150 caracteres.")
-                .Matches(@"^[a-zA-Z0-9._-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$").WithMessage("O 'email' fornecido é inválido.")
+                .Matches(@"^[a-zA-Z0-9._-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$").WithMessage(
+                "O endereço de e-mail fornecido parece ser inválido. Por favor, certifique-se de que esteja seguindo o padrão correto, como no exemplo: 'exemplo@exemplo.com'.")
                .Must(BeUniqueEmail).WithMessage("Este 'email' já está em uso.");
         }
 

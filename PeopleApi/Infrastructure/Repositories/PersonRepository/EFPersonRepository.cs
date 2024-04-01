@@ -1,5 +1,7 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.AspNetCore.Mvc.RazorPages;
+using Microsoft.EntityFrameworkCore;
 using PeopleApi.Domain;
+using PeopleApi.Domain.Services;
 using PeopleApi.Infrastructure.Data.DbContexts;
 
 
@@ -30,9 +32,14 @@ namespace PeopleApi.Infrastructure.Repositories.PersonRepository
             _context.SaveChanges();
         }
 
-        public IList<Person> GetAll()
+        public async Task<(IEnumerable<Person> data, int totalCount)> GetAll(int page, int pageSize)
         {
-            return _dbSet.ToList();
+            var query = _dbSet.AsQueryable();
+            var totalCount = await query.CountAsync();
+
+            var paginatedData = await query.Skip((page - 1) * pageSize).Take(pageSize).ToListAsync();
+
+            return (paginatedData, totalCount);
         }
 
         public Person GetById(long id)
@@ -47,13 +54,26 @@ namespace PeopleApi.Infrastructure.Repositories.PersonRepository
             _context.SaveChanges();
         }
 
-       public async Task SavePeopleWithCSVAsync(Person person)
+        public async Task<OperationResult<string>> SavePeopleWithCSVAsync(Person person)
         {
-          await  _dbSet.AddAsync(person);
-         await  _context.SaveChangesAsync();
+            var result = new OperationResult<string>();
+
+            try
+            {
+                await _dbSet.AddAsync(person);
+                await _context.SaveChangesAsync();
+
+                result.Data = "Pessoas salvas com sucesso";
+            }
+            catch (Exception ex)
+            {
+                result.Errors.Add($"Erro ao salvar pessoas: {ex.Message}");
+            }
+
+            return result;
         }
 
-       public bool BeUniqueEmail(string email)
+        public bool BeUniqueEmail(string email)
         {
             var existingPerson = _dbSet.Where(p => p.Email == email).FirstOrDefault();
             return existingPerson == null;

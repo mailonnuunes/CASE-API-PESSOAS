@@ -157,3 +157,367 @@ Log de inicializacao Information: 0 - Application started. Press Ctrl+C to shut 
 Log de inicializacao Information: 0 - Hosting environment: Development
 Log de inicializacao Information: 0 - Content root path: C:\Users\mailo\OneDrive\Imagens\.NET\PeopleApi\PeopleApi\
 Log de inicializacao Information: 0 - solicitado endpoint /api/Person/obter-todas-pessoas GET
+Log de inicializacao Information: ListeningOnAddress - Now listening on: https://localhost:7248
+Log de inicializacao Information: ListeningOnAddress - Now listening on: http://localhost:5000
+Log de inicializacao Information: 0 - Application started. Press Ctrl+C to shut down.
+Log de inicializacao Information: 0 - Hosting environment: Development
+Log de inicializacao Information: 0 - Content root path: C:\Users\mailo\OneDrive\Imagens\.NET\PeopleApi\PeopleApi\
+Log de inicializacao Information: ListeningOnAddress - Now listening on: https://localhost:7248
+Log de inicializacao Information: ListeningOnAddress - Now listening on: http://localhost:5000
+Log de inicializacao Information: 0 - Application started. Press Ctrl+C to shut down.
+Log de inicializacao Information: 0 - Hosting environment: Development
+Log de inicializacao Information: 0 - Content root path: C:\Users\mailo\OneDrive\Imagens\.NET\PeopleApi\PeopleApi\
+Log de inicializacao Information: ListeningOnAddress - Now listening on: https://localhost:7248
+Log de inicializacao Information: ListeningOnAddress - Now listening on: http://localhost:5000
+Log de inicializacao Information: 0 - Application started. Press Ctrl+C to shut down.
+Log de inicializacao Information: 0 - Hosting environment: Development
+Log de inicializacao Information: 0 - Content root path: C:\Users\mailo\OneDrive\Imagens\.NET\PeopleApi\PeopleApi\
+Log de inicializacao Information: ListeningOnAddress - Now listening on: https://localhost:7248
+Log de inicializacao Information: ListeningOnAddress - Now listening on: http://localhost:5000
+Log de inicializacao Information: 0 - Application started. Press Ctrl+C to shut down.
+Log de inicializacao Information: 0 - Hosting environment: Development
+Log de inicializacao Information: 0 - Content root path: C:\Users\mailo\OneDrive\Imagens\.NET\PeopleApi\PeopleApi\
+Log de inicializacao Information: ListeningOnAddress - Now listening on: https://localhost:7248
+Log de inicializacao Information: ListeningOnAddress - Now listening on: http://localhost:5000
+Log de inicializacao Information: 0 - Application started. Press Ctrl+C to shut down.
+Log de inicializacao Information: 0 - Hosting environment: Development
+Log de inicializacao Information: 0 - Content root path: C:\Users\mailo\OneDrive\Imagens\.NET\PeopleApi\PeopleApi\
+Log de inicializacao Information: ListeningOnAddress - Now listening on: https://localhost:7248
+Log de inicializacao Information: ListeningOnAddress - Now listening on: http://localhost:5000
+Log de inicializacao Information: 0 - Application started. Press Ctrl+C to shut down.
+Log de inicializacao Information: 0 - Hosting environment: Development
+Log de inicializacao Information: 0 - Content root path: C:\Users\mailo\OneDrive\Imagens\.NET\PeopleApi\PeopleApi\
+Log de inicializacao Information: ListeningOnAddress - Now listening on: https://localhost:7248
+Log de inicializacao Information: ListeningOnAddress - Now listening on: http://localhost:5000
+Log de inicializacao Information: 0 - Application started. Press Ctrl+C to shut down.
+Log de inicializacao Information: 0 - Hosting environment: Development
+Log de inicializacao Information: 0 - Content root path: C:\Users\mailo\OneDrive\Imagens\.NET\PeopleApi\PeopleApi\
+Log de inicializacao Information: ListeningOnAddress - Now listening on: https://localhost:7248
+Log de inicializacao Information: ListeningOnAddress - Now listening on: http://localhost:5000
+Log de inicializacao Information: 0 - Application started. Press Ctrl+C to shut down.
+Log de inicializacao Information: 0 - Hosting environment: Development
+Log de inicializacao Information: 0 - Content root path: C:\Users\mailo\OneDrive\Imagens\.NET\PeopleApi\PeopleApi\
+Log de inicializacao Information: ListeningOnAddress - Now listening on: https://localhost:7248
+Log de inicializacao Information: ListeningOnAddress - Now listening on: http://localhost:5000
+Log de inicializacao Information: 0 - Application started. Press Ctrl+C to shut down.
+Log de inicializacao Information: 0 - Hosting environment: Development
+Log de inicializacao Information: 0 - Content root path: C:\Users\mailo\OneDrive\Imagens\.NET\PeopleApi\PeopleApi\
+Log de inicializacao Information: ListeningOnAddress - Now listening on: https://localhost:7248
+Log de inicializacao Information: ListeningOnAddress - Now listening on: http://localhost:5000
+Log de inicializacao Information: 0 - Application started. Press Ctrl+C to shut down.
+Log de inicializacao Information: 0 - Hosting environment: Development
+Log de inicializacao Information: 0 - Content root path: C:\Users\mailo\OneDrive\Imagens\.NET\PeopleApi\PeopleApi\
+Log de inicializacao Information: ListeningOnAddress - Now listening on: https://localhost:7248
+Log de inicializacao Information: ListeningOnAddress - Now listening on: http://localhost:5000
+Log de inicializacao Information: 0 - Application started. Press Ctrl+C to shut down.
+Log de inicializacao Information: 0 - Hosting environment: Development
+Log de inicializacao Information: 0 - Content root path: C:\Users\mailo\OneDrive\Imagens\.NET\PeopleApi\PeopleApi\
+Log de inicializacao Information: ListeningOnAddress - Now listening on: https://localhost:7248
+Log de inicializacao Information: ListeningOnAddress - Now listening on: http://localhost:5000
+Log de inicializacao Information: 0 - Application started. Press Ctrl+C to shut down.
+Log de inicializacao Information: 0 - Hosting environment: Development
+Log de inicializacao Information: 0 - Content root path: C:\Users\mailo\OneDrive\Imagens\.NET\PeopleApi\PeopleApi\
+Log de inicializacao Information: ListeningOnAddress - Now listening on: https://localhost:7248
+Log de inicializacao Information: ListeningOnAddress - Now listening on: http://localhost:5000
+Log de inicializacao Information: 0 - Application started. Press Ctrl+C to shut down.
+Log de inicializacao Information: 0 - Hosting environment: Development
+Log de inicializacao Information: 0 - Content root path: C:\Users\mailo\OneDrive\Imagens\.NET\PeopleApi\PeopleApi\
+Log de inicializacao Information: ListeningOnAddress - Now listening on: https://localhost:7248
+Log de inicializacao Information: ListeningOnAddress - Now listening on: http://localhost:5000
+Log de inicializacao Information: 0 - Application started. Press Ctrl+C to shut down.
+Log de inicializacao Information: 0 - Hosting environment: Development
+Log de inicializacao Information: 0 - Content root path: C:\Users\mailo\OneDrive\Imagens\.NET\PeopleApi\PeopleApi\
+Log de inicializacao Information: ListeningOnAddress - Now listening on: https://localhost:7248
+Log de inicializacao Information: ListeningOnAddress - Now listening on: http://localhost:5000
+Log de inicializacao Information: 0 - Application started. Press Ctrl+C to shut down.
+Log de inicializacao Information: 0 - Hosting environment: Development
+Log de inicializacao Information: 0 - Content root path: C:\Users\mailo\OneDrive\Imagens\.NET\PeopleApi\PeopleApi\
+Log de inicializacao Information: ListeningOnAddress - Now listening on: https://localhost:7248
+Log de inicializacao Information: ListeningOnAddress - Now listening on: http://localhost:5000
+Log de inicializacao Information: 0 - Application started. Press Ctrl+C to shut down.
+Log de inicializacao Information: 0 - Hosting environment: Development
+Log de inicializacao Information: 0 - Content root path: C:\Users\mailo\OneDrive\Imagens\.NET\PeopleApi\PeopleApi\
+Log de inicializacao Information: ListeningOnAddress - Now listening on: https://localhost:7248
+Log de inicializacao Information: ListeningOnAddress - Now listening on: http://localhost:5000
+Log de inicializacao Information: 0 - Application started. Press Ctrl+C to shut down.
+Log de inicializacao Information: 0 - Hosting environment: Development
+Log de inicializacao Information: 0 - Content root path: C:\Users\mailo\OneDrive\Imagens\.NET\PeopleApi\PeopleApi\
+Log de inicializacao Information: ListeningOnAddress - Now listening on: https://localhost:7248
+Log de inicializacao Information: ListeningOnAddress - Now listening on: http://localhost:5000
+Log de inicializacao Information: 0 - Application started. Press Ctrl+C to shut down.
+Log de inicializacao Information: 0 - Hosting environment: Development
+Log de inicializacao Information: 0 - Content root path: C:\Users\mailo\OneDrive\Imagens\.NET\PeopleApi\PeopleApi\
+Log de inicializacao Information: ListeningOnAddress - Now listening on: https://localhost:7248
+Log de inicializacao Information: ListeningOnAddress - Now listening on: http://localhost:5000
+Log de inicializacao Information: 0 - Application started. Press Ctrl+C to shut down.
+Log de inicializacao Information: 0 - Hosting environment: Development
+Log de inicializacao Information: 0 - Content root path: C:\Users\mailo\OneDrive\Imagens\.NET\PeopleApi\PeopleApi\
+Log de inicializacao Information: 0 - Solicitado endpoint /api/Person/obter-todas-pessoas GET
+Log de inicializacao Information: ListeningOnAddress - Now listening on: https://localhost:7248
+Log de inicializacao Information: ListeningOnAddress - Now listening on: http://localhost:5000
+Log de inicializacao Information: 0 - Application started. Press Ctrl+C to shut down.
+Log de inicializacao Information: 0 - Hosting environment: Development
+Log de inicializacao Information: 0 - Content root path: C:\Users\mailo\OneDrive\Imagens\.NET\PeopleApi\PeopleApi\
+Log de inicializacao Information: 0 - solicitado endpoint /api/Person/criar-pessoa-apartir-csv POST - Pessoa criada - ID: 0, Nome: Morty Smith, Idade: 14, Email: morty@c137.com
+Log de inicializacao Information: 0 - Solicitado endpoint /api/Person/obter-todas-pessoas GET
+Log de inicializacao Error: UnhandledException - An unhandled exception has occurred while executing the request.
+Log de inicializacao Information: ListeningOnAddress - Now listening on: https://localhost:7248
+Log de inicializacao Information: ListeningOnAddress - Now listening on: http://localhost:5000
+Log de inicializacao Information: 0 - Application started. Press Ctrl+C to shut down.
+Log de inicializacao Information: 0 - Hosting environment: Development
+Log de inicializacao Information: 0 - Content root path: C:\Users\mailo\OneDrive\Imagens\.NET\PeopleApi\PeopleApi\
+Log de inicializacao Information: 0 - solicitado endpoint /api/Person/criar-pessoa-apartir-csv POST - Pessoa criada - ID: 0, Nome: Morty Smith, Idade: 14, Email: morty@c137.com
+Log de inicializacao Information: 0 - Solicitado endpoint /api/Person/obter-todas-pessoas GET
+Log de inicializacao Information: 0 - Solicitado endpoint /api/Person/obter-todas-pessoas GET
+Log de inicializacao Information: 0 - Solicitado endpoint /api/Person/obter-todas-pessoas GET
+Log de inicializacao Information: 0 - Solicitado endpoint /api/Person/obter-todas-pessoas GET
+Log de inicializacao Information: 0 - solicitado endpoint /api/Person/criar-pessoa-apartir-csv POST - Pessoa criada - ID: 0, Nome: Morty Smith, Idade: 14, Email: morty@c137.com
+Log de inicializacao Information: 0 - Solicitado endpoint /api/Person/obter-todas-pessoas GET
+Log de inicializacao Information: 0 - Solicitado endpoint /api/Person/obter-todas-pessoas GET
+Log de inicializacao Information: 0 - Solicitado endpoint /api/Person/obter-todas-pessoas GET
+Log de inicializacao Information: 0 - Solicitado endpoint /api/Person/obter-todas-pessoas GET
+Log de inicializacao Information: ListeningOnAddress - Now listening on: https://localhost:7248
+Log de inicializacao Information: ListeningOnAddress - Now listening on: http://localhost:5000
+Log de inicializacao Information: 0 - Application started. Press Ctrl+C to shut down.
+Log de inicializacao Information: 0 - Hosting environment: Development
+Log de inicializacao Information: 0 - Content root path: C:\Users\mailo\OneDrive\Imagens\.NET\PeopleApi\PeopleApi\
+Log de inicializacao Information: 0 - Solicitado endpoint /api/Person/obter-todas-pessoas GET
+Log de inicializacao Information: 0 - Solicitado endpoint /api/Person/obter-todas-pessoas GET
+Log de inicializacao Information: 0 - Solicitado endpoint /api/Person/obter-todas-pessoas GET
+Log de inicializacao Information: 0 - Solicitado endpoint /api/Person/obter-todas-pessoas GET
+Log de inicializacao Information: 0 - Solicitado endpoint /api/Person/obter-todas-pessoas GET
+Log de inicializacao Information: 0 - Solicitado endpoint /api/Person/obter-todas-pessoas GET
+Log de inicializacao Information: ListeningOnAddress - Now listening on: https://localhost:7248
+Log de inicializacao Information: ListeningOnAddress - Now listening on: http://localhost:5000
+Log de inicializacao Information: 0 - Application started. Press Ctrl+C to shut down.
+Log de inicializacao Information: 0 - Hosting environment: Development
+Log de inicializacao Information: 0 - Content root path: C:\Users\mailo\OneDrive\Imagens\.NET\PeopleApi\PeopleApi\
+Log de inicializacao Information: ListeningOnAddress - Now listening on: https://localhost:7248
+Log de inicializacao Information: ListeningOnAddress - Now listening on: http://localhost:5000
+Log de inicializacao Information: 0 - Application started. Press Ctrl+C to shut down.
+Log de inicializacao Information: 0 - Hosting environment: Development
+Log de inicializacao Information: 0 - Content root path: C:\Users\mailo\OneDrive\Imagens\.NET\PeopleApi\PeopleApi\
+Log de inicializacao Information: 0 - Solicitado endpoint /api/Person/obter-todas-pessoas GET
+Log de inicializacao Information: 0 - Solicitado endpoint /api/Person/obter-todas-pessoas GET
+Log de inicializacao Information: ListeningOnAddress - Now listening on: https://localhost:7248
+Log de inicializacao Information: ListeningOnAddress - Now listening on: http://localhost:5000
+Log de inicializacao Information: 0 - Application started. Press Ctrl+C to shut down.
+Log de inicializacao Information: 0 - Hosting environment: Development
+Log de inicializacao Information: 0 - Content root path: C:\Users\mailo\OneDrive\Imagens\.NET\PeopleApi\PeopleApi\
+Log de inicializacao Information: ListeningOnAddress - Now listening on: https://localhost:7248
+Log de inicializacao Information: ListeningOnAddress - Now listening on: http://localhost:5000
+Log de inicializacao Information: 0 - Application started. Press Ctrl+C to shut down.
+Log de inicializacao Information: 0 - Hosting environment: Development
+Log de inicializacao Information: 0 - Content root path: C:\Users\mailo\OneDrive\Imagens\.NET\PeopleApi\PeopleApi\
+Log de inicializacao Information: ListeningOnAddress - Now listening on: https://localhost:7248
+Log de inicializacao Information: ListeningOnAddress - Now listening on: http://localhost:5000
+Log de inicializacao Information: 0 - Application started. Press Ctrl+C to shut down.
+Log de inicializacao Information: 0 - Hosting environment: Development
+Log de inicializacao Information: 0 - Content root path: C:\Users\mailo\OneDrive\Imagens\.NET\PeopleApi\PeopleApi\
+Log de inicializacao Information: ListeningOnAddress - Now listening on: https://localhost:7248
+Log de inicializacao Information: ListeningOnAddress - Now listening on: http://localhost:5000
+Log de inicializacao Information: 0 - Application started. Press Ctrl+C to shut down.
+Log de inicializacao Information: 0 - Hosting environment: Development
+Log de inicializacao Information: 0 - Content root path: C:\Users\mailo\OneDrive\Imagens\.NET\PeopleApi\PeopleApi\
+Log de inicializacao Information: 0 - Solicitado endpoint /api/Person/criar-pessoa-apartir-csv POST - Pessoa criada - Nome: Kakaroto Silva, Idade: 50, Email: kakaroto@dbzmail.com
+Log de inicializacao Information: 0 - Solicitado endpoint /api/Person/criar-pessoa-apartir-csv POST - Pessoa criada - Nome: Tommy Shelby, Idade: 42, Email: tommy@peaky.blinders.com
+Log de inicializacao Information: 0 - Solicitado endpoint /api/Person/criar-pessoa-apartir-csv POST - Pessoa criada - Nome: Eddie Van Halen, Idade: 30, Email: evh@peavey5150.com
+Log de inicializacao Information: 0 - Solicitado endpoint /api/Person/obter-todas-pessoas GET
+Log de inicializacao Information: ListeningOnAddress - Now listening on: https://localhost:7248
+Log de inicializacao Information: ListeningOnAddress - Now listening on: http://localhost:5000
+Log de inicializacao Information: 0 - Application started. Press Ctrl+C to shut down.
+Log de inicializacao Information: 0 - Hosting environment: Development
+Log de inicializacao Information: 0 - Content root path: C:\Users\mailo\OneDrive\Imagens\.NET\PeopleApi\PeopleApi\
+Log de inicializacao Information: ListeningOnAddress - Now listening on: https://localhost:7248
+Log de inicializacao Information: ListeningOnAddress - Now listening on: http://localhost:5000
+Log de inicializacao Information: 0 - Application started. Press Ctrl+C to shut down.
+Log de inicializacao Information: 0 - Hosting environment: Development
+Log de inicializacao Information: 0 - Content root path: C:\Users\mailo\OneDrive\Imagens\.NET\PeopleApi\PeopleApi\
+Log de inicializacao Information: 0 - Solicitado endpoint /api/Person/obter-todas-pessoas GET
+Log de inicializacao Information: 0 - Solicitado endpoint /api/Person/obter-todas-pessoas GET
+Log de inicializacao Information: ListeningOnAddress - Now listening on: https://localhost:7248
+Log de inicializacao Information: ListeningOnAddress - Now listening on: http://localhost:5000
+Log de inicializacao Information: 0 - Application started. Press Ctrl+C to shut down.
+Log de inicializacao Information: 0 - Hosting environment: Development
+Log de inicializacao Information: 0 - Content root path: C:\Users\mailo\OneDrive\Imagens\.NET\PeopleApi\PeopleApi\
+Log de inicializacao Information: ListeningOnAddress - Now listening on: https://localhost:7248
+Log de inicializacao Information: ListeningOnAddress - Now listening on: http://localhost:5000
+Log de inicializacao Information: 0 - Application started. Press Ctrl+C to shut down.
+Log de inicializacao Information: 0 - Hosting environment: Development
+Log de inicializacao Information: 0 - Content root path: C:\Users\mailo\OneDrive\Imagens\.NET\PeopleApi\PeopleApi\
+Log de inicializacao Information: 0 - Solicitado endpoint /api/Person/obter-todas-pessoas GET
+Log de inicializacao Information: 0 - Solicitado endpoint /api/Person/obter-todas-pessoas GET
+Log de inicializacao Information: 0 - Solicitado endpoint /api/Person/obter-todas-pessoas GET
+Log de inicializacao Information: 0 - Solicitado endpoint /api/Person/obter-todas-pessoas GET
+Log de inicializacao Information: ListeningOnAddress - Now listening on: https://localhost:7248
+Log de inicializacao Information: ListeningOnAddress - Now listening on: http://localhost:5000
+Log de inicializacao Information: 0 - Application started. Press Ctrl+C to shut down.
+Log de inicializacao Information: 0 - Hosting environment: Development
+Log de inicializacao Information: 0 - Content root path: C:\Users\mailo\OneDrive\Imagens\.NET\PeopleApi\PeopleApi\
+Log de inicializacao Information: ListeningOnAddress - Now listening on: https://localhost:7248
+Log de inicializacao Information: ListeningOnAddress - Now listening on: http://localhost:5000
+Log de inicializacao Information: 0 - Application started. Press Ctrl+C to shut down.
+Log de inicializacao Information: 0 - Hosting environment: Development
+Log de inicializacao Information: 0 - Content root path: C:\Users\mailo\OneDrive\Imagens\.NET\PeopleApi\PeopleApi\
+Log de inicializacao Information: ListeningOnAddress - Now listening on: https://localhost:7248
+Log de inicializacao Information: ListeningOnAddress - Now listening on: http://localhost:5000
+Log de inicializacao Information: 0 - Application started. Press Ctrl+C to shut down.
+Log de inicializacao Information: 0 - Hosting environment: Development
+Log de inicializacao Information: 0 - Content root path: C:\Users\mailo\OneDrive\Imagens\.NET\PeopleApi\PeopleApi\
+Log de inicializacao Information: 0 - Solicitado endpoint /api/Person/criar-pessoa-apartir-csv POST - Pessoa criada - Nome: Bruce Wayne, Idade: 35, Email: batman@gotham.com
+Log de inicializacao Information: 0 - Solicitado endpoint /api/Person/criar-pessoa-apartir-csv POST - Pessoa criada - Nome: Tony Stark, Idade: 45, Email: ironman@starkindustries.com
+Log de inicializacao Information: 0 - Solicitado endpoint /api/Person/criar-pessoa-apartir-csv POST - Pessoa criada - Nome: Diana Prince, Idade: 500, Email: wonderwoman@amazon.com
+Log de inicializacao Information: 0 - Solicitado endpoint /api/Person/criar-pessoa-apartir-csv POST - Pessoa criada - Nome: Clark Kent, Idade: 40, Email: superman@krypton.com
+Log de inicializacao Information: 0 - Solicitado endpoint /api/Person/criar-pessoa-apartir-csv POST - Pessoa criada - Nome: Peter Parker, Idade: 25, Email: spidey@dailybugle.com
+Log de inicializacao Information: 0 - Solicitado endpoint /api/Person/criar-pessoa-apartir-csv POST - Pessoa criada - Nome: Natasha Romanoff, Idade: 35, Email: blackwidow@shield.com
+Log de inicializacao Information: 0 - Solicitado endpoint /api/Person/criar-pessoa-apartir-csv POST - Pessoa criada - Nome: Steve Rogers, Idade: 100, Email: captain@avengers.com
+Log de inicializacao Information: 0 - Solicitado endpoint /api/Person/criar-pessoa-apartir-csv POST - Pessoa criada - Nome: Han Solo, Idade: 35, Email: hansolo@millenniumfalcon.com
+Log de inicializacao Information: 0 - Solicitado endpoint /api/Person/criar-pessoa-apartir-csv POST - Pessoa criada - Nome: Leia Organa, Idade: 30, Email: leia@rebellion.org
+Log de inicializacao Information: 0 - Solicitado endpoint /api/Person/criar-pessoa-apartir-csv POST - Pessoa criada - Nome: Luke Skywalker, Idade: 30, Email: luke@jediorder.com
+Log de inicializacao Information: 0 - Solicitado endpoint /api/Person/criar-pessoa-apartir-csv POST - Pessoa criada - Nome: Indiana Jones, Idade: 45, Email: indy@archeology.net
+Log de inicializacao Information: 0 - Solicitado endpoint /api/Person/criar-pessoa-apartir-csv POST - Pessoa criada - Nome: Ellie Sattler, Idade: 35, Email: ellie@paleobotany.org
+Log de inicializacao Information: 0 - Solicitado endpoint /api/Person/criar-pessoa-apartir-csv POST - Pessoa criada - Nome: Jack Sparrow, Idade: 40, Email: jack@blackpearl.com
+Log de inicializacao Information: 0 - Solicitado endpoint /api/Person/criar-pessoa-apartir-csv POST - Pessoa criada - Nome: Marty McFly, Idade: 18, Email: marty@mcflytravel.com
+Log de inicializacao Information: 0 - Solicitado endpoint /api/Person/criar-pessoa-apartir-csv POST - Pessoa criada - Nome: John Wick, Idade: 40, Email: john@assassin.com
+Log de inicializacao Information: 0 - Solicitado endpoint /api/Person/criar-pessoa-apartir-csv POST - Pessoa criada - Nome: Rick Sanchez, Idade: 70, Email: rick@c137.com
+Log de inicializacao Information: 0 - Solicitado endpoint /api/Person/criar-pessoa-apartir-csv POST - Pessoa criada - Nome: Morty Smith, Idade: 14, Email: morty@c137.com
+Log de inicializacao Information: 0 - Solicitado endpoint /api/Person/obter-todas-pessoas GET
+Log de inicializacao Information: ListeningOnAddress - Now listening on: https://localhost:7248
+Log de inicializacao Information: ListeningOnAddress - Now listening on: http://localhost:5000
+Log de inicializacao Information: 0 - Application started. Press Ctrl+C to shut down.
+Log de inicializacao Information: 0 - Hosting environment: Development
+Log de inicializacao Information: 0 - Content root path: C:\Users\mailo\OneDrive\Imagens\.NET\PeopleApi\PeopleApi\
+Log de inicializacao Information: 0 - Solicitado endpoint /api/Person/criar-pessoa-apartir-csv POST - Pessoa criada - Nome: Bruce Wayne, Idade: 35, Email: batman@gotham.com
+Log de inicializacao Information: 0 - Solicitado endpoint /api/Person/criar-pessoa-apartir-csv POST - Pessoa criada - Nome: Tony Stark, Idade: 45, Email: ironman@starkindustries.com
+Log de inicializacao Information: 0 - Solicitado endpoint /api/Person/criar-pessoa-apartir-csv POST - Pessoa criada - Nome: Diana Prince, Idade: 500, Email: wonderwoman@amazon.com
+Log de inicializacao Information: 0 - Solicitado endpoint /api/Person/criar-pessoa-apartir-csv POST - Pessoa criada - Nome: Clark Kent, Idade: 40, Email: superman@krypton.com
+Log de inicializacao Information: 0 - Solicitado endpoint /api/Person/criar-pessoa-apartir-csv POST - Pessoa criada - Nome: Peter Parker, Idade: 25, Email: spidey@dailybugle.com
+Log de inicializacao Information: 0 - Solicitado endpoint /api/Person/criar-pessoa-apartir-csv POST - Pessoa criada - Nome: Natasha Romanoff, Idade: 35, Email: blackwidow@shield.com
+Log de inicializacao Information: 0 - Solicitado endpoint /api/Person/criar-pessoa-apartir-csv POST - Pessoa criada - Nome: Steve Rogers, Idade: 100, Email: captain@avengers.com
+Log de inicializacao Information: 0 - Solicitado endpoint /api/Person/criar-pessoa-apartir-csv POST - Pessoa criada - Nome: Han Solo, Idade: 35, Email: hansolo@millenniumfalcon.com
+Log de inicializacao Information: 0 - Solicitado endpoint /api/Person/criar-pessoa-apartir-csv POST - Pessoa criada - Nome: Leia Organa, Idade: 30, Email: leia@rebellion.org
+Log de inicializacao Information: 0 - Solicitado endpoint /api/Person/criar-pessoa-apartir-csv POST - Pessoa criada - Nome: Luke Skywalker, Idade: 30, Email: luke@jediorder.com
+Log de inicializacao Information: 0 - Solicitado endpoint /api/Person/criar-pessoa-apartir-csv POST - Pessoa criada - Nome: Indiana Jones, Idade: 45, Email: indy@archeology.net
+Log de inicializacao Information: 0 - Solicitado endpoint /api/Person/criar-pessoa-apartir-csv POST - Pessoa criada - Nome: Ellie Sattler, Idade: 35, Email: ellie@paleobotany.org
+Log de inicializacao Information: 0 - Solicitado endpoint /api/Person/criar-pessoa-apartir-csv POST - Pessoa criada - Nome: Jack Sparrow, Idade: 40, Email: jack@blackpearl.com
+Log de inicializacao Information: 0 - Solicitado endpoint /api/Person/criar-pessoa-apartir-csv POST - Pessoa criada - Nome: Marty McFly, Idade: 18, Email: marty@mcflytravel.com
+Log de inicializacao Information: 0 - Solicitado endpoint /api/Person/criar-pessoa-apartir-csv POST - Pessoa criada - Nome: John Wick, Idade: 40, Email: john@assassin.com
+Log de inicializacao Information: 0 - Solicitado endpoint /api/Person/criar-pessoa-apartir-csv POST - Pessoa criada - Nome: Rick Sanchez, Idade: 70, Email: rick@c137.com
+Log de inicializacao Information: 0 - Solicitado endpoint /api/Person/criar-pessoa-apartir-csv POST - Pessoa criada - Nome: Morty Smith, Idade: 14, Email: morty@c137.com
+Log de inicializacao Information: 0 - Solicitado endpoint /api/Person/obter-todas-pessoas GET
+Log de inicializacao Information: ListeningOnAddress - Now listening on: https://localhost:7248
+Log de inicializacao Information: ListeningOnAddress - Now listening on: http://localhost:5000
+Log de inicializacao Information: 0 - Application started. Press Ctrl+C to shut down.
+Log de inicializacao Information: 0 - Hosting environment: Development
+Log de inicializacao Information: 0 - Content root path: C:\Users\mailo\OneDrive\Imagens\.NET\PeopleApi\PeopleApi\
+Log de inicializacao Information: 0 - Solicitado endpoint /api/Person/criar-pessoa-apartir-csv POST - Pessoa criada - Nome: Bruce Wayne, Idade: 35, Email: batman@gotham.com
+Log de inicializacao Information: 0 - Solicitado endpoint /api/Person/criar-pessoa-apartir-csv POST - Pessoa criada - Nome: Tony Stark, Idade: 45, Email: ironman@starkindustries.com
+Log de inicializacao Information: 0 - Solicitado endpoint /api/Person/criar-pessoa-apartir-csv POST - Pessoa criada - Nome: Diana Prince, Idade: 500, Email: wonderwoman@amazon.com
+Log de inicializacao Information: 0 - Solicitado endpoint /api/Person/criar-pessoa-apartir-csv POST - Pessoa criada - Nome: Clark Kent, Idade: 40, Email: superman@krypton.com
+Log de inicializacao Information: 0 - Solicitado endpoint /api/Person/criar-pessoa-apartir-csv POST - Pessoa criada - Nome: Peter Parker, Idade: 25, Email: spidey@dailybugle.com
+Log de inicializacao Information: 0 - Solicitado endpoint /api/Person/criar-pessoa-apartir-csv POST - Pessoa criada - Nome: Natasha Romanoff, Idade: 35, Email: blackwidow@shield.com
+Log de inicializacao Information: 0 - Solicitado endpoint /api/Person/criar-pessoa-apartir-csv POST - Pessoa criada - Nome: Steve Rogers, Idade: 100, Email: captain@avengers.com
+Log de inicializacao Information: 0 - Solicitado endpoint /api/Person/criar-pessoa-apartir-csv POST - Pessoa criada - Nome: Han Solo, Idade: 35, Email: hansolo@millenniumfalcon.com
+Log de inicializacao Information: 0 - Solicitado endpoint /api/Person/criar-pessoa-apartir-csv POST - Pessoa criada - Nome: Leia Organa, Idade: 30, Email: leia@rebellion.org
+Log de inicializacao Information: 0 - Solicitado endpoint /api/Person/criar-pessoa-apartir-csv POST - Pessoa criada - Nome: Luke Skywalker, Idade: 30, Email: luke@jediorder.com
+Log de inicializacao Information: 0 - Solicitado endpoint /api/Person/criar-pessoa-apartir-csv POST - Pessoa criada - Nome: Indiana Jones, Idade: 45, Email: indy@archeology.net
+Log de inicializacao Information: 0 - Solicitado endpoint /api/Person/criar-pessoa-apartir-csv POST - Pessoa criada - Nome: Ellie Sattler, Idade: 35, Email: ellie@paleobotany.org
+Log de inicializacao Information: 0 - Solicitado endpoint /api/Person/criar-pessoa-apartir-csv POST - Pessoa criada - Nome: Jack Sparrow, Idade: 40, Email: jack@blackpearl.com
+Log de inicializacao Information: 0 - Solicitado endpoint /api/Person/criar-pessoa-apartir-csv POST - Pessoa criada - Nome: Marty McFly, Idade: 18, Email: marty@mcflytravel.com
+Log de inicializacao Information: 0 - Solicitado endpoint /api/Person/criar-pessoa-apartir-csv POST - Pessoa criada - Nome: John Wick, Idade: 40, Email: john@assassin.com
+Log de inicializacao Information: 0 - Solicitado endpoint /api/Person/criar-pessoa-apartir-csv POST - Pessoa criada - Nome: Rick Sanchez, Idade: 70, Email: rick@c137.com
+Log de inicializacao Information: 0 - Solicitado endpoint /api/Person/criar-pessoa-apartir-csv POST - Pessoa criada - Nome: Morty Smith, Idade: 14, Email: morty@c137.com
+Log de inicializacao Information: 0 - Solicitado endpoint /api/Person/obter-todas-pessoas GET
+Log de inicializacao Information: ListeningOnAddress - Now listening on: https://localhost:7248
+Log de inicializacao Information: ListeningOnAddress - Now listening on: http://localhost:5000
+Log de inicializacao Information: 0 - Application started. Press Ctrl+C to shut down.
+Log de inicializacao Information: 0 - Hosting environment: Development
+Log de inicializacao Information: 0 - Content root path: C:\Users\mailo\OneDrive\Imagens\.NET\PeopleApi\PeopleApi\
+Log de inicializacao Information: ListeningOnAddress - Now listening on: https://localhost:7248
+Log de inicializacao Information: ListeningOnAddress - Now listening on: http://localhost:5000
+Log de inicializacao Information: 0 - Application started. Press Ctrl+C to shut down.
+Log de inicializacao Information: 0 - Hosting environment: Development
+Log de inicializacao Information: 0 - Content root path: C:\Users\mailo\OneDrive\Imagens\.NET\PeopleApi\PeopleApi\
+Log de inicializacao Error: 0 - Erro ao validar pessoa: Este 'email' já está em uso.
+Log de inicializacao Error: 0 - Erro ao validar pessoa: Este 'email' já está em uso.
+Log de inicializacao Error: 0 - Erro ao validar pessoa: A 'idade' deve ser menor ou igual a 150., Este 'email' já está em uso.
+Log de inicializacao Error: 0 - Erro ao validar pessoa: Este 'email' já está em uso.
+Log de inicializacao Error: 0 - Erro ao validar pessoa: Este 'email' já está em uso.
+Log de inicializacao Error: 0 - Erro ao validar pessoa: Este 'email' já está em uso.
+Log de inicializacao Error: 0 - Erro ao validar pessoa: Este 'email' já está em uso.
+Log de inicializacao Error: 0 - Erro ao validar pessoa: Este 'email' já está em uso.
+Log de inicializacao Error: 0 - Erro ao validar pessoa: Este 'email' já está em uso.
+Log de inicializacao Error: 0 - Erro ao validar pessoa: Este 'email' já está em uso.
+Log de inicializacao Error: 0 - Erro ao validar pessoa: Este 'email' já está em uso.
+Log de inicializacao Error: 0 - Erro ao validar pessoa: Este 'email' já está em uso.
+Log de inicializacao Error: 0 - Erro ao validar pessoa: Este 'email' já está em uso.
+Log de inicializacao Error: 0 - Erro ao validar pessoa: Este 'email' já está em uso.
+Log de inicializacao Error: 0 - Erro ao validar pessoa: Este 'email' já está em uso.
+Log de inicializacao Error: 0 - Erro ao validar pessoa: Este 'email' já está em uso.
+Log de inicializacao Error: 0 - Erro ao validar pessoa: Este 'email' já está em uso.
+Log de inicializacao Information: 0 - Solicitado endpoint /api/Person/obter-todas-pessoas GET
+Log de inicializacao Information: ListeningOnAddress - Now listening on: https://localhost:7248
+Log de inicializacao Information: ListeningOnAddress - Now listening on: http://localhost:5000
+Log de inicializacao Information: 0 - Application started. Press Ctrl+C to shut down.
+Log de inicializacao Information: 0 - Hosting environment: Development
+Log de inicializacao Information: 0 - Content root path: C:\Users\mailo\OneDrive\Imagens\.NET\PeopleApi\PeopleApi\
+Log de inicializacao Information: ListeningOnAddress - Now listening on: https://localhost:7248
+Log de inicializacao Information: ListeningOnAddress - Now listening on: http://localhost:5000
+Log de inicializacao Information: 0 - Application started. Press Ctrl+C to shut down.
+Log de inicializacao Information: 0 - Hosting environment: Development
+Log de inicializacao Information: 0 - Content root path: C:\Users\mailo\OneDrive\Imagens\.NET\PeopleApi\PeopleApi\
+Log de inicializacao Information: ListeningOnAddress - Now listening on: https://localhost:7248
+Log de inicializacao Information: ListeningOnAddress - Now listening on: http://localhost:5000
+Log de inicializacao Information: 0 - Application started. Press Ctrl+C to shut down.
+Log de inicializacao Information: 0 - Hosting environment: Development
+Log de inicializacao Information: 0 - Content root path: C:\Users\mailo\OneDrive\Imagens\.NET\PeopleApi\PeopleApi\
+Log de inicializacao Information: ListeningOnAddress - Now listening on: https://localhost:7248
+Log de inicializacao Information: ListeningOnAddress - Now listening on: http://localhost:5000
+Log de inicializacao Information: 0 - Application started. Press Ctrl+C to shut down.
+Log de inicializacao Information: 0 - Hosting environment: Development
+Log de inicializacao Information: 0 - Content root path: C:\Users\mailo\OneDrive\Imagens\.NET\PeopleApi\PeopleApi\
+Log de inicializacao Information: ListeningOnAddress - Now listening on: https://localhost:7248
+Log de inicializacao Information: ListeningOnAddress - Now listening on: http://localhost:5000
+Log de inicializacao Information: 0 - Application started. Press Ctrl+C to shut down.
+Log de inicializacao Information: 0 - Hosting environment: Development
+Log de inicializacao Information: 0 - Content root path: C:\Users\mailo\OneDrive\Imagens\.NET\PeopleApi\PeopleApi\
+Log de inicializacao Error: 0 - Erro ao validar pessoa: Este 'email' já está em uso.
+Log de inicializacao Error: 0 - Erro ao validar pessoa: Este 'email' já está em uso.
+Log de inicializacao Error: 0 - Erro ao validar pessoa: A 'idade' deve ser menor ou igual a 150., Este 'email' já está em uso.
+Log de inicializacao Error: 0 - Erro ao validar pessoa: Este 'email' já está em uso.
+Log de inicializacao Error: 0 - Erro ao validar pessoa: Este 'email' já está em uso.
+Log de inicializacao Error: 0 - Erro ao validar pessoa: Este 'email' já está em uso.
+Log de inicializacao Error: 0 - Erro ao validar pessoa: Este 'email' já está em uso.
+Log de inicializacao Error: 0 - Erro ao validar pessoa: Este 'email' já está em uso.
+Log de inicializacao Error: 0 - Erro ao validar pessoa: Este 'email' já está em uso.
+Log de inicializacao Error: 0 - Erro ao validar pessoa: Este 'email' já está em uso.
+Log de inicializacao Error: 0 - Erro ao validar pessoa: Este 'email' já está em uso.
+Log de inicializacao Error: 0 - Erro ao validar pessoa: Este 'email' já está em uso.
+Log de inicializacao Error: 0 - Erro ao validar pessoa: Este 'email' já está em uso.
+Log de inicializacao Error: 0 - Erro ao validar pessoa: Este 'email' já está em uso.
+Log de inicializacao Error: 0 - Erro ao validar pessoa: Este 'email' já está em uso.
+Log de inicializacao Error: 0 - Erro ao validar pessoa: Este 'email' já está em uso.
+Log de inicializacao Error: 0 - Erro ao validar pessoa: Este 'email' já está em uso.
+Log de inicializacao Information: ListeningOnAddress - Now listening on: https://localhost:7248
+Log de inicializacao Information: ListeningOnAddress - Now listening on: http://localhost:5000
+Log de inicializacao Information: 0 - Application started. Press Ctrl+C to shut down.
+Log de inicializacao Information: 0 - Hosting environment: Development
+Log de inicializacao Information: 0 - Content root path: C:\Users\mailo\OneDrive\Imagens\.NET\PeopleApi\PeopleApi\
+Log de inicializacao Error: 0 - Erro ao validar pessoa: Este 'email' já está em uso.
+Log de inicializacao Error: 0 - Erro ao validar pessoa: Este 'email' já está em uso.
+Log de inicializacao Error: 0 - Erro ao validar pessoa: A 'idade' deve ser menor ou igual a 150., Este 'email' já está em uso.
+Log de inicializacao Error: 0 - Erro ao validar pessoa: A 'idade' deve ser menor ou igual a 150., Este 'email' já está em uso.
+Log de inicializacao Error: 0 - Erro ao validar pessoa: Este 'email' já está em uso.
+Log de inicializacao Error: 0 - Erro ao validar pessoa: Este 'email' já está em uso.
+Log de inicializacao Error: 0 - Erro ao validar pessoa: Este 'email' já está em uso.
+Log de inicializacao Error: 0 - Erro ao validar pessoa: Este 'email' já está em uso.
+Log de inicializacao Error: 0 - Erro ao validar pessoa: Este 'email' já está em uso.
+Log de inicializacao Error: 0 - Erro ao validar pessoa: Este 'email' já está em uso.
+Log de inicializacao Error: 0 - Erro ao validar pessoa: Este 'email' já está em uso.
+Log de inicializacao Error: 0 - Erro ao validar pessoa: Este 'email' já está em uso.
+Log de inicializacao Error: 0 - Erro ao validar pessoa: Este 'email' já está em uso.
+Log de inicializacao Error: 0 - Erro ao validar pessoa: Este 'email' já está em uso.
+Log de inicializacao Error: 0 - Erro ao validar pessoa: Este 'email' já está em uso.
+Log de inicializacao Error: 0 - Erro ao validar pessoa: Este 'email' já está em uso.
+Log de inicializacao Error: 0 - Erro ao validar pessoa: Este 'email' já está em uso.
+Log de inicializacao Error: 0 - Erro ao validar pessoa: Este 'email' já está em uso.

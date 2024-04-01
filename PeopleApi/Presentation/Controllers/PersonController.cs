@@ -21,11 +21,23 @@ namespace PeopleApi.Presentation.Controllers
             _logger = logger;
         }
 
+
         [HttpGet("obter-todas-pessoas")]
-        public IActionResult GetAllPeople()
+        public async Task<IActionResult> GetAllPeople(int page = 1, int pageSize = 10)
         {
-            _logger.LogInformation($"solicitado endpoint /api/Person/obter-todas-pessoas GET");
-            return Ok(_personService.GetAllPeople());
+            _logger.LogInformation($"Solicitado endpoint /api/Person/obter-todas-pessoas GET");
+
+            var (people, totalCount) = await _personService.GetAllPeople(page, pageSize);
+
+            var response = new
+            {
+                Data = people,
+                TotalCount = totalCount,
+                PageSize = pageSize,
+                CurrentPage = page
+            };
+
+            return Ok(response);
         }
         [HttpGet("Obter-pessoa-por-id")]
         public IActionResult GetPersonById(int id)
@@ -60,13 +72,18 @@ namespace PeopleApi.Presentation.Controllers
             return NoContent();
         }
         [HttpPost("criar-pessoa-apartir-csv")]
-        public IActionResult AddPeopleFromCSV(IFormFile file) 
+        public async Task<IActionResult> AddPeopleFromCSV(IFormFile file)
         {
-            _personService.AddPeopleFromCSV(file);
-            
-            return Ok("pessoas adicionadas com sucesso");
-          
+            var result =  await _personService.AddPeopleFromCSV(file);
 
+            if (result.Success)
+            {
+                return Ok(result.Data);
+            }
+            else
+            {
+                return BadRequest(result.Errors);
+            }
         }
     }
 }

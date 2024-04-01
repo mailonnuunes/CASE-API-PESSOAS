@@ -3,16 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\mailo\\OneDrive\\Imagens\\.NET\\PeopleApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C6B0046A-D614-4160-9990-855E125ACB26}|PeopleApi\\PeopleApi.csproj|c:\\users\\mailo\\onedrive\\imagens\\.net\\peopleapi\\peopleapi\\domain\\services\\persondtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C6B0046A-D614-4160-9990-855E125ACB26}|PeopleApi\\PeopleApi.csproj|solutionrelative:peopleapi\\domain\\services\\persondtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C6B0046A-D614-4160-9990-855E125ACB26}|PeopleApi\\PeopleApi.csproj|c:\\users\\mailo\\onedrive\\imagens\\.net\\peopleapi\\peopleapi\\application\\services\\personservice\\personservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6B0046A-D614-4160-9990-855E125ACB26}|PeopleApi\\PeopleApi.csproj|solutionrelative:peopleapi\\application\\services\\personservice\\personservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C6B0046A-D614-4160-9990-855E125ACB26}|PeopleApi\\PeopleApi.csproj|c:\\users\\mailo\\onedrive\\imagens\\.net\\peopleapi\\peopleapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C6B0046A-D614-4160-9990-855E125ACB26}|PeopleApi\\PeopleApi.csproj|solutionrelative:peopleapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C6B0046A-D614-4160-9990-855E125ACB26}|PeopleApi\\PeopleApi.csproj|c:\\users\\mailo\\onedrive\\imagens\\.net\\peopleapi\\peopleapi\\application\\services\\personservice\\ipersonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6B0046A-D614-4160-9990-855E125ACB26}|PeopleApi\\PeopleApi.csproj|solutionrelative:peopleapi\\application\\services\\personservice\\ipersonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6B0046A-D614-4160-9990-855E125ACB26}|PeopleApi\\PeopleApi.csproj|c:\\users\\mailo\\onedrive\\imagens\\.net\\peopleapi\\peopleapi\\infrastructure\\repositories\\personrepository\\efpersonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6B0046A-D614-4160-9990-855E125ACB26}|PeopleApi\\PeopleApi.csproj|solutionrelative:peopleapi\\infrastructure\\repositories\\personrepository\\efpersonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6B0046A-D614-4160-9990-855E125ACB26}|PeopleApi\\PeopleApi.csproj|c:\\users\\mailo\\onedrive\\imagens\\.net\\peopleapi\\peopleapi\\presentation\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6B0046A-D614-4160-9990-855E125ACB26}|PeopleApi\\PeopleApi.csproj|solutionrelative:peopleapi\\presentation\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6B0046A-D614-4160-9990-855E125ACB26}|PeopleApi\\PeopleApi.csproj|c:\\users\\mailo\\onedrive\\imagens\\.net\\peopleapi\\peopleapi\\infrastructure\\repositories\\personrepository\\ipersonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6B0046A-D614-4160-9990-855E125ACB26}|PeopleApi\\PeopleApi.csproj|solutionrelative:peopleapi\\infrastructure\\repositories\\personrepository\\ipersonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6B0046A-D614-4160-9990-855E125ACB26}|PeopleApi\\PeopleApi.csproj|c:\\users\\mailo\\onedrive\\imagens\\.net\\peopleapi\\peopleapi\\domain\\services\\csvprocessingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6B0046A-D614-4160-9990-855E125ACB26}|PeopleApi\\PeopleApi.csproj|solutionrelative:peopleapi\\domain\\services\\csvprocessingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C6B0046A-D614-4160-9990-855E125ACB26}|PeopleApi\\PeopleApi.csproj|c:\\users\\mailo\\onedrive\\imagens\\.net\\peopleapi\\peopleapi\\domain\\services\\icsvprocessingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C6B0046A-D614-4160-9990-855E125ACB26}|PeopleApi\\PeopleApi.csproj|solutionrelative:peopleapi\\domain\\services\\icsvprocessingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6B0046A-D614-4160-9990-855E125ACB26}|PeopleApi\\PeopleApi.csproj|c:\\users\\mailo\\onedrive\\imagens\\.net\\peopleapi\\peopleapi\\log-2024-03-31.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C6B0046A-D614-4160-9990-855E125ACB26}|PeopleApi\\PeopleApi.csproj|solutionrelative:peopleapi\\log-2024-03-31.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +42,110 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\mailo\\OneDrive\\Imagens\\.NET\\PeopleApi\\PeopleApi\\Program.cs",
-              "RelativeDocumentMoniker": "PeopleApi\\Program.cs",
-              "ToolTip": "C:\\Users\\mailo\\OneDrive\\Imagens\\.NET\\PeopleApi\\PeopleApi\\Program.cs",
-              "RelativeToolTip": "PeopleApi\\Program.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Title": "IPersonService.cs",
+              "DocumentMoniker": "C:\\Users\\mailo\\OneDrive\\Imagens\\.NET\\PeopleApi\\PeopleApi\\Application\\Services\\PersonService\\IPersonService.cs",
+              "RelativeDocumentMoniker": "PeopleApi\\Application\\Services\\PersonService\\IPersonService.cs",
+              "ToolTip": "C:\\Users\\mailo\\OneDrive\\Imagens\\.NET\\PeopleApi\\PeopleApi\\Application\\Services\\PersonService\\IPersonService.cs",
+              "RelativeToolTip": "PeopleApi\\Application\\Services\\PersonService\\IPersonService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-31T18:11:30.485Z",
+              "WhenOpened": "2024-04-01T01:00:03.257Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "EFPersonRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mailo\\OneDrive\\Imagens\\.NET\\PeopleApi\\PeopleApi\\Infrastructure\\Repositories\\PersonRepository\\EFPersonRepository.cs",
+              "RelativeDocumentMoniker": "PeopleApi\\Infrastructure\\Repositories\\PersonRepository\\EFPersonRepository.cs",
+              "ToolTip": "C:\\Users\\mailo\\OneDrive\\Imagens\\.NET\\PeopleApi\\PeopleApi\\Infrastructure\\Repositories\\PersonRepository\\EFPersonRepository.cs",
+              "RelativeToolTip": "PeopleApi\\Infrastructure\\Repositories\\PersonRepository\\EFPersonRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T01:00:35.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IPersonRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mailo\\OneDrive\\Imagens\\.NET\\PeopleApi\\PeopleApi\\Infrastructure\\Repositories\\PersonRepository\\IPersonRepository.cs",
+              "RelativeDocumentMoniker": "PeopleApi\\Infrastructure\\Repositories\\PersonRepository\\IPersonRepository.cs",
+              "ToolTip": "C:\\Users\\mailo\\OneDrive\\Imagens\\.NET\\PeopleApi\\PeopleApi\\Infrastructure\\Repositories\\PersonRepository\\IPersonRepository.cs",
+              "RelativeToolTip": "PeopleApi\\Infrastructure\\Repositories\\PersonRepository\\IPersonRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T01:00:34.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CsvProcessingService.cs",
+              "DocumentMoniker": "C:\\Users\\mailo\\OneDrive\\Imagens\\.NET\\PeopleApi\\PeopleApi\\Domain\\Services\\CsvProcessingService.cs",
+              "RelativeDocumentMoniker": "PeopleApi\\Domain\\Services\\CsvProcessingService.cs",
+              "ToolTip": "C:\\Users\\mailo\\OneDrive\\Imagens\\.NET\\PeopleApi\\PeopleApi\\Domain\\Services\\CsvProcessingService.cs",
+              "RelativeToolTip": "PeopleApi\\Domain\\Services\\CsvProcessingService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACAAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T00:40:03.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "ICsvProcessingService.cs",
               "DocumentMoniker": "C:\\Users\\mailo\\OneDrive\\Imagens\\.NET\\PeopleApi\\PeopleApi\\Domain\\Services\\ICsvProcessingService.cs",
               "RelativeDocumentMoniker": "PeopleApi\\Domain\\Services\\ICsvProcessingService.cs",
               "ToolTip": "C:\\Users\\mailo\\OneDrive\\Imagens\\.NET\\PeopleApi\\PeopleApi\\Domain\\Services\\ICsvProcessingService.cs",
               "RelativeToolTip": "PeopleApi\\Domain\\Services\\ICsvProcessingService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-31T18:10:11.217Z",
+              "WhenOpened": "2024-04-01T00:40:01.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PersonController.cs",
+              "DocumentMoniker": "C:\\Users\\mailo\\OneDrive\\Imagens\\.NET\\PeopleApi\\PeopleApi\\Presentation\\Controllers\\PersonController.cs",
+              "RelativeDocumentMoniker": "PeopleApi\\Presentation\\Controllers\\PersonController.cs",
+              "ToolTip": "C:\\Users\\mailo\\OneDrive\\Imagens\\.NET\\PeopleApi\\PeopleApi\\Presentation\\Controllers\\PersonController.cs",
+              "RelativeToolTip": "PeopleApi\\Presentation\\Controllers\\PersonController.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAAwEwAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T00:37:36.214Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "PersonDtoValidator.cs",
-              "DocumentMoniker": "C:\\Users\\mailo\\OneDrive\\Imagens\\.NET\\PeopleApi\\PeopleApi\\Domain\\Services\\PersonDtoValidator.cs",
-              "RelativeDocumentMoniker": "PeopleApi\\Domain\\Services\\PersonDtoValidator.cs",
-              "ToolTip": "C:\\Users\\mailo\\OneDrive\\Imagens\\.NET\\PeopleApi\\PeopleApi\\Domain\\Services\\PersonDtoValidator.cs",
-              "RelativeToolTip": "PeopleApi\\Domain\\Services\\PersonDtoValidator.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Title": "PersonService.cs",
+              "DocumentMoniker": "C:\\Users\\mailo\\OneDrive\\Imagens\\.NET\\PeopleApi\\PeopleApi\\Application\\Services\\PersonService\\PersonService.cs",
+              "RelativeDocumentMoniker": "PeopleApi\\Application\\Services\\PersonService\\PersonService.cs",
+              "ToolTip": "C:\\Users\\mailo\\OneDrive\\Imagens\\.NET\\PeopleApi\\PeopleApi\\Application\\Services\\PersonService\\PersonService.cs",
+              "RelativeToolTip": "PeopleApi\\Application\\Services\\PersonService\\PersonService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwBYAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-31T18:08:41.637Z",
+              "WhenOpened": "2024-03-31T20:47:03.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LOG-2024-03-31.txt",
+              "DocumentMoniker": "C:\\Users\\mailo\\OneDrive\\Imagens\\.NET\\PeopleApi\\PeopleApi\\LOG-2024-03-31.txt",
+              "RelativeDocumentMoniker": "PeopleApi\\LOG-2024-03-31.txt",
+              "ToolTip": "C:\\Users\\mailo\\OneDrive\\Imagens\\.NET\\PeopleApi\\PeopleApi\\LOG-2024-03-31.txt",
+              "RelativeToolTip": "PeopleApi\\LOG-2024-03-31.txt",
+              "ViewState": "AQIAANkBAAAAAAAAAAAAALcBAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-03-31T23:55:23.652Z",
               "EditorCaption": ""
             }
           ]

@@ -84,3 +84,4 @@ C:\Users\mailo\OneDrive\Imagens\.NET\PeopleApi\PeopleApi\obj\Debug\net6.0\ref\Pe
 C:\Users\mailo\OneDrive\Imagens\.NET\PeopleApi\PeopleApi\bin\Debug\net6.0\FluentValidation.dll
 C:\Users\mailo\OneDrive\Imagens\.NET\PeopleApi\PeopleApi\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
 C:\Users\mailo\OneDrive\Imagens\.NET\PeopleApi\PeopleApi\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\mailo\OneDrive\Imagens\.NET\PeopleApi\PeopleApi\obj\Debug\net6.0\PeopleApi.sourcelink.json

@@ -3,6 +3,6 @@
     public interface ICsvProcessingService
     {
 
-        Task UploadFileAsync(IFormFile file);
+        Task<OperationResult<string>> UploadFileAsync(IFormFile file);
     }
 }

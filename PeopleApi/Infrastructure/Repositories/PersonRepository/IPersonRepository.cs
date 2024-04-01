@@ -1,4 +1,5 @@
 ﻿using PeopleApi.Domain;
+using PeopleApi.Domain.Services;
 
 
 namespace PeopleApi.Infrastructure.Repositories.PersonRepository
@@ -6,7 +7,7 @@ namespace PeopleApi.Infrastructure.Repositories.PersonRepository
     public interface IPersonRepository<Person>
     {
 
-        IList<Person> GetAll();
+        Task<(IEnumerable<Person> data, int totalCount)> GetAll(int page, int pageSize);
 
         Person GetById(long id);
 
@@ -16,7 +17,7 @@ namespace PeopleApi.Infrastructure.Repositories.PersonRepository
 
         void Delete(long id);
 
-        Task SavePeopleWithCSVAsync(Person person);
+        Task<OperationResult<string>> SavePeopleWithCSVAsync(Person person);
 
         bool BeUniqueEmail(string email);
     }
