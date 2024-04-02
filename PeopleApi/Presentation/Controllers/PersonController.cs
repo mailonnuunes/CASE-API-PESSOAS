@@ -43,13 +43,22 @@ namespace PeopleApi.Presentation.Controllers
         public IActionResult GetPersonById(int id)
         {
             _logger.LogInformation($"solicitado endpoint /api/Person/Obter-pessoa-por-id GET");
-            return Ok(_personService.GetPersonById(id));
+            var result = _personService.GetPersonById(id);
+
+            if (result.Success)
+            {
+                return Ok(result.Data); // Retorna 200 OK com os dados da pessoa
+            }
+            else
+            {
+                return NotFound(result.Message); // Retorna 404 Not Found com a mensagem de erro
+            }
         }
         [HttpPost("Criar-pessoa")]
         public IActionResult CreatePerson(CreatePersonDto createPersonDto)
         {
-            
-            var person = new Person(createPersonDto); 
+
+            var person = new Person(createPersonDto);
             _personService.CreatePerson(person);
             var newPersonId = person.Id;
             _logger.LogWarning($"Solicitado endpoint /api/Person/Criar-pessoa POST - Pessoa criada - ID: {newPersonId}, Nome: {person.Name}, Idade: {person.Age}, Email: {person.Email}");
@@ -67,14 +76,24 @@ namespace PeopleApi.Presentation.Controllers
         [HttpDelete("Deletar-pessoa")]
         public IActionResult DeletePerson(int id)
         {
-            _personService.DeletePerson(id);
+
             _logger.LogInformation($"solicitado endpoint /api/Person/Deletar-pessoa DELETE - Pessoa deletada - ID: {id}");
-            return NoContent();
+            var result = _personService.DeletePerson(id);
+
+            if (result.Success)
+            {
+                return NoContent(); // Retorna 200 OK com a mensagem de sucesso
+            }
+            else
+            {
+                return NotFound(result.Message); // Retorna 404 Not Found com a mensagem de erro
+            }
         }
+
         [HttpPost("criar-pessoa-apartir-csv")]
         public async Task<IActionResult> AddPeopleFromCSV(IFormFile file)
         {
-            var result =  await _personService.AddPeopleFromCSV(file);
+            var result = await _personService.AddPeopleFromCSV(file);
 
             if (result.Success)
             {

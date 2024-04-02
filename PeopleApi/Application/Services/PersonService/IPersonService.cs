@@ -8,13 +8,13 @@ namespace PeopleApi.Application.Services.PersonService
     {
         Task<(IEnumerable<Person> data, int totalCount)> GetAllPeople(int page = 1, int pageSize = 10);
 
-        Person GetPersonById(long id);
+        ServiceResult<Person> GetPersonById(long id);
 
-        void CreatePerson(Person person);
+        bool CreatePerson(Person person);
 
-        void UpdatePerson(Person person);
+        bool UpdatePerson(Person person);
 
-        void DeletePerson(long id);
+       ServiceResult<bool> DeletePerson(long id);
 
         Task<OperationResult<string>> AddPeopleFromCSV(IFormFile file);
     }

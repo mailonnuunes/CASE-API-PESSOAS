@@ -1,6 +1,7 @@
 ﻿
 
 using PeopleApi.Application.Dtos;
+using System.Text.RegularExpressions;
 
 namespace PeopleApi.Domain
 {
@@ -24,6 +25,5 @@ namespace PeopleApi.Domain
 
         public string Email { get; set; }
 
-    
     }
 }

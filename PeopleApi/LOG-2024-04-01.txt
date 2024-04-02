@@ -1,0 +1,37 @@
+Log de inicializacao Information: ListeningOnAddress - Now listening on: https://localhost:7248
+Log de inicializacao Information: ListeningOnAddress - Now listening on: http://localhost:5000
+Log de inicializacao Information: 0 - Application started. Press Ctrl+C to shut down.
+Log de inicializacao Information: 0 - Hosting environment: Development
+Log de inicializacao Information: 0 - Content root path: C:\Users\mailo\OneDrive\Imagens\.NET\PeopleApi\PeopleApi\
+Log de inicializacao Information: 0 - Solicitado endpoint /api/Person/obter-todas-pessoas GET
+Log de inicializacao Information: ListeningOnAddress - Now listening on: https://localhost:7248
+Log de inicializacao Information: ListeningOnAddress - Now listening on: http://localhost:5000
+Log de inicializacao Information: 0 - Application started. Press Ctrl+C to shut down.
+Log de inicializacao Information: 0 - Hosting environment: Development
+Log de inicializacao Information: 0 - Content root path: C:\Users\mailo\OneDrive\Imagens\.NET\PeopleApi\PeopleApi\
+Log de inicializacao Information: ListeningOnAddress - Now listening on: https://localhost:7248
+Log de inicializacao Information: ListeningOnAddress - Now listening on: http://localhost:5000
+Log de inicializacao Information: 0 - Application started. Press Ctrl+C to shut down.
+Log de inicializacao Information: 0 - Hosting environment: Development
+Log de inicializacao Information: 0 - Content root path: C:\Users\mailo\OneDrive\Imagens\.NET\PeopleApi\PeopleApi\
+Log de inicializacao Information: 0 - Solicitado endpoint /api/Person/obter-todas-pessoas GET
+Log de inicializacao Information: ListeningOnAddress - Now listening on: https://localhost:7248
+Log de inicializacao Information: ListeningOnAddress - Now listening on: http://localhost:5000
+Log de inicializacao Information: 0 - Application started. Press Ctrl+C to shut down.
+Log de inicializacao Information: 0 - Hosting environment: Development
+Log de inicializacao Information: 0 - Content root path: C:\Users\mailo\OneDrive\Imagens\.NET\PeopleApi\PeopleApi\
+Log de inicializacao Information: ListeningOnAddress - Now listening on: https://localhost:7248
+Log de inicializacao Information: ListeningOnAddress - Now listening on: http://localhost:5000
+Log de inicializacao Information: 0 - Application started. Press Ctrl+C to shut down.
+Log de inicializacao Information: 0 - Hosting environment: Development
+Log de inicializacao Information: 0 - Content root path: C:\Users\mailo\OneDrive\Imagens\.NET\PeopleApi\PeopleApi\
+Log de inicializacao Information: ListeningOnAddress - Now listening on: https://localhost:7248
+Log de inicializacao Information: ListeningOnAddress - Now listening on: http://localhost:5000
+Log de inicializacao Information: 0 - Application started. Press Ctrl+C to shut down.
+Log de inicializacao Information: 0 - Hosting environment: Development
+Log de inicializacao Information: 0 - Content root path: C:\Users\mailo\OneDrive\Imagens\.NET\PeopleApi\PeopleApi\
+Log de inicializacao Information: ListeningOnAddress - Now listening on: https://localhost:7248
+Log de inicializacao Information: ListeningOnAddress - Now listening on: http://localhost:5000
+Log de inicializacao Information: 0 - Application started. Press Ctrl+C to shut down.
+Log de inicializacao Information: 0 - Hosting environment: Development
+Log de inicializacao Information: 0 - Content root path: C:\Users\mailo\OneDrive\Imagens\.NET\PeopleApi\PeopleApi\

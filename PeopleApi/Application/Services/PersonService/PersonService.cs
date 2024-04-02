@@ -5,6 +5,8 @@ using Microsoft.AspNetCore.Mvc.RazorPages;
 using PeopleApi.Domain;
 using PeopleApi.Domain.Services;
 using PeopleApi.Infrastructure.Repositories.PersonRepository;
+using System.Text.RegularExpressions;
+using System.Xml.Linq;
 
 namespace PeopleApi.Application.Services.PersonService
 {
@@ -16,6 +18,7 @@ namespace PeopleApi.Application.Services.PersonService
 
         private readonly IValidator<Person> _personValidator;
 
+        
         public PersonService(IPersonRepository<Person> personRepository, ICsvProcessingService csvProcessingService, IValidator<Person> personValidator)
         {
             _personRepository = personRepository;
@@ -65,16 +68,44 @@ namespace PeopleApi.Application.Services.PersonService
             }
         }
 
-        public void CreatePerson(Person person)
+        public bool CreatePerson(Person person)
         {
+            if (person.Age <= 0 || person.Age > 150)
+            {
+                return false;
 
-                _personRepository.Create(person);
-            
+            }
+
+            if (!Regex.IsMatch(person.Name, @"^[a-zA-Z\s]+$") || string.IsNullOrEmpty(person.Name))
+            {
+                return false;
+                
+            }
+
+            if (!Regex.IsMatch(person.Email, @"^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$"))
+            {
+                return false;
+                
+            }
+
+            // Se todas as condições de validação passarem, cria a pessoa
+            _personRepository.Create(person);
+             return true;
+
         }
 
-        public void DeletePerson(long id)
+        public ServiceResult<bool> DeletePerson(long id)
         {
-            _personRepository.Delete(id);
+            var personToDelete = _personRepository.GetById(id);
+            if (personToDelete != null)
+            {
+                _personRepository.Delete(id);
+                return new ServiceResult<bool> { Success = true, Message = "Pessoa excluída com sucesso" };
+            }
+            else
+            {
+                return new ServiceResult<bool> { Success = false, Message = "Pessoa não encontrada, exclusão não realizada" };
+            }
         }
 
         public Task<(IEnumerable<Person> data, int totalCount)> GetAllPeople(int page = 1, int pageSize = 10)
@@ -82,26 +113,55 @@ namespace PeopleApi.Application.Services.PersonService
             return _personRepository.GetAll(page, pageSize);
         }
 
-        public Person GetPersonById(long id)
+        public ServiceResult<Person> GetPersonById(long id)
         {
-            return _personRepository.GetById(id);
+            var person = _personRepository.GetById(id);
+            if (person != null)
+            {
+                return new ServiceResult<Person>{ Success = true, Data = person };
+            }
+            else
+            {
+                return new ServiceResult<Person> { Success = false, Message = "Pessoa não encontrada" };
+            }
         }
 
-        public void UpdatePerson(Person person)
+        public bool UpdatePerson(Person person)
         {
             var validationResult = _personValidator.Validate(person);
             if (!validationResult.IsValid)
             {
-                // Lidar com erros de validação aqui
                 throw new ValidationException(validationResult.Errors);
+            }
+            if (_personRepository.BeUniqueEmail(person.Email))
+            {
+                if (person.Age <= 0 || person.Age > 150)
+                {
+                    return false;
+                }
+
+                if (!Regex.IsMatch(person.Name, @"^[a-zA-Z\s]+$") || string.IsNullOrEmpty(person.Name))
+                {
+                    return false;
+                }
+
+                if (!Regex.IsMatch(person.Email, @"^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$"))
+                {
+                    return false;
+                }
+
+                _personRepository.Update(person);
+                return true;
             }
             else
             {
-                _personRepository.Update(person);
+                return false; // Retorna false se o email já existir na lista
             }
-           
+        }
+    }
         }
 
-    }
+
+
     
-}
+
