@@ -1,0 +1,18 @@
+#Defindo o nome do workflow
+name: Test Workflow
+
+# Definindo quando o worklow sera disparado
+on:
+  push:
+    branches: [main]
+
+jobs:
+  test_job:
+    name: Executando job de teste
+    runs-on: ubuntu-latest
+    steps:
+      - name: Executando job de teste
+        uses: actions/checkout@v2
+
+      - name: Executando um comando simples
+        run: echo "Ola, mundo! Este e o nosso primeiro job no github Actions!"
