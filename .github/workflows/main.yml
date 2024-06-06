@@ -4,7 +4,7 @@ name: Test Workflow
 # Definindo quando o worklow sera disparado
 on:
   push:
-    branches: [main]
+    branches: [master]
 
 jobs:
   test_job:
